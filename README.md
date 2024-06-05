@@ -4,5 +4,12 @@
 
 ### Certifications
 
+- CISSP
+- 
+
+### Projects
 
 ### Experience
+
+
+### Talks & Lectures
