@@ -9,14 +9,35 @@
 
 ### Industry Experience
 
-- Transport & Logistics: Transurban
-- Public Sector: City of Adelaide, SA Government
-- Energy & Utilities: Electranet, Hydro Tasmania, Momentum Energy, SA Water
-- Insurance: Medibank, ahm, Coverforce, AAMI, GIO, Shannon's, CIL, Bingle, Suncorp, AAI, AMP
-- Retail: Target, Kmart, Catch.com.au, iSelect, Wesfarmers, Officeworks, Bunnings Warehouse
-- Banking & Finance: Bankwest, Statewide Super, Suncorp Bank, Commonwealth Bank, NAB
-- Telco: Telstra, Belong
-- Food & Beverage: Haigh's, T2
-- Non-Profit: Re-timer, Stroke Foundation, Oxfam
-- Entertainment: Ladbrokes, Sportsbet
-- Professional Services: Deloitte
+**Transport & Logistics:**
+Transurban
+
+**Public Sector:**
+City of Adelaide, SA Government
+
+**Energy & Utilities:**
+Electranet, Hydro Tasmania, Momentum Energy, SA Water
+
+**Insurance:**
+Medibank, ahm, Coverforce, AAMI, GIO, Shannon's, CIL, Bingle, Suncorp, AAI, AMP
+
+**Retail:**
+Target, Kmart, Catch.com.au, iSelect, Wesfarmers, Officeworks, Bunnings Warehouse
+
+**Banking & Finance:**
+Bankwest, Statewide Super, Suncorp Bank, Commonwealth Bank, NAB
+
+**Telco:**
+Telstra, Belong
+
+**Food & Beverage:**
+Haigh's, T2
+
+**Non-Profit:**
+Re-timer, Stroke Foundation, Oxfam
+
+**Entertainment:**
+Ladbrokes, Sportsbet
+
+**Professional Services:**
+Deloitte
