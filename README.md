@@ -1,10 +1,5 @@
-# Cybersecurity Consultant
-Hi, I'm Matt
-I help businesses assess & mitigate cybersecurity risks, optimise processes & empower staff through targeted training.
-Let's strengthen your defence against cyber threats together.
+# GRC Consultant
 
-
-https://www.credly.com/users/mthwndrsn
 
 ### Education
 
