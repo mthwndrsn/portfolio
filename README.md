@@ -1,4 +1,7 @@
-## About Me
+### Services
+- Risk Assessments
+- Privacy Advisory
+- Education & Training
 
 
 ### Certifications
