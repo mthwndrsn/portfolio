@@ -1,7 +1,3 @@
-## Portfolio
-
----
-
 ### Services
 - Risk Assessments
 - Privacy Advisory
