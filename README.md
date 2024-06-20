@@ -1,6 +1,7 @@
 ### Services
 - Risk Assessments
 - Privacy Advisory
+- Security Process Automation
 - Security Awareness Education & Training
 - IRAP Assessments
 
