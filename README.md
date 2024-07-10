@@ -15,10 +15,10 @@
 - **Cybersecurity Program Development** - Developing comprehensive cybersecurity programs tailored to organizational needs.
 - **Continuous Monitoring and Reporting - Implementing systems for continuous monitoring and regular reporting on cybersecurity posture.
 - **Policy and Procedure Review and Update** - Reviewing and updating existing cybersecurity policies and procedures.
-- Privacy Advisory
-- Security Process Automation
-- Security Awareness Education & Training
-- IRAP Assessments
+- **Privacy Advisory**
+- **Security Process Automation**
+- **Security Awareness Education & Training**
+- **IRAP Assessments**
 
 ---
 
