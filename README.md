@@ -1,5 +1,20 @@
 ### Services
-- Risk Assessments
+- **Cybersecurity Policy Development**: Creating tailored cybersecurity policies and procedures for organizations.
+- **Cybersecurity Strategy and Roadmap** - Developing a strategic plan and roadmap for cybersecurity initiatives.
+- **Board and Executive Cybersecurity Training** - Training sessions for board members and executives on cybersecurity governance and responsibilities.
+- **Cybersecurity Maturity Assessment** - Assessing the current state of cybersecurity maturity and providing recommendations for improvement.
+- **Risk Assessment and Management** - Conducting comprehensive risk assessments and developing risk management frameworks.
+- **Vulnerability Assessment and Penetration Testing** - Identifying and testing vulnerabilities in systems and networks.
+- **Incident Response Planning and Simulation** - Creating incident response plans and conducting tabletop exercises.
+- **Third-Party Risk Management** - Assessing and managing risks associated with third-party vendors and partners.
+- **Regulatory Compliance Assessment** - Assessing compliance with relevant regulations (e.g., GDPR, HIPAA, PCI-DSS).
+- **Audit Preparation and Support** - Preparing for and supporting internal and external audits.
+- **Data Protection and Privacy Services** - Implementing data protection and privacy controls to comply with legal requirements.
+- **Compliance Training Programs** - Developing and delivering training programs to ensure compliance awareness among staff.
+- **Cybersecurity Awareness Training** - Conducting ongoing training sessions to raise cybersecurity awareness among employees.
+- **Cybersecurity Program Development** - Developing comprehensive cybersecurity programs tailored to organizational needs.
+- **Continuous Monitoring and Reporting - Implementing systems for continuous monitoring and regular reporting on cybersecurity posture.
+- **Policy and Procedure Review and Update** - Reviewing and updating existing cybersecurity policies and procedures.
 - Privacy Advisory
 - Security Process Automation
 - Security Awareness Education & Training
