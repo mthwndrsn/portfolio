@@ -42,3 +42,13 @@
 - **Non-Profit:** Re-timer, Stroke Foundation, Oxfam
 - **Entertainment:** Ladbrokes, Sportsbet
 - **Professional Services:** Deloitte
+
+### Memberships & Associations 
+
+- Australian Information Security Association (AISA)
+- ISACA Melbourne Chapter
+- Risk Management Institution of Australia (RMIA)
+- The Institute of Internal Auditors Australia (IIA-Australia)
+- Australian Insitute of Company Directors (AICD)
+- ISC2
+- Project Management Insitute
